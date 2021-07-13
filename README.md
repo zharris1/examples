@@ -1,5 +1,7 @@
 ## Welcome to Zachary's GitHub Page
 
+[Zachary Harris](IMG_8685.jpeg)
+
 On this page, you can find details about me, my projects, and educational background.
 
 
@@ -19,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and !
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
