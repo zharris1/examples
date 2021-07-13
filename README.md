@@ -24,10 +24,48 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### First tabs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zharris1/zharris3.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+{% tabs log %}
 
-### Support or Contact
+{% tab log php %}
+```php
+var_dump('hello');
+```
+{% endtab %}
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+{% tab log js %}
+```javascript
+console.log('hello');
+```
+{% endtab %}
+
+{% tab log ruby %}
+```javascript
+pputs 'hello'
+```
+{% endtab %}
+
+{% endtabs %}
+
+### Second tabs
+
+{% tabs data-struct %}
+
+{% tab data-struct yaml %}
+```yaml
+hello:
+  - 'whatsup'
+  - 'hi'
+```
+{% endtab %}
+
+{% tab data-struct json %}
+```json
+{
+    "hello": ["whatsup", "hi"]
+}
+```
+{% endtab %}
+
+{% endtabs %}
