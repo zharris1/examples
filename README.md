@@ -1,6 +1,5 @@
 # Welcome to Zachary's GitHub Page
 
-{:toc}
 
 On this page, you can find details about me, my projects, and educational background.
 
