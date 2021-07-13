@@ -1,4 +1,4 @@
-## Welcome to Zachary's GitHub Page
+# Welcome to Zachary's GitHub Page
 
 On this page, you can find details about me, my projects, and educational background.
 
