@@ -13,7 +13,10 @@ On this page, you can find details about me, my projects, and educational backgr
 
 
 # Projects
-- [Breweries](Beer-Study.html)
+## Case Study One
+- [Beer and Brewery Case Study One: Code Overview](Beer-Study.html)
+- [Beer and Brewery Shiny Application]
+## Case Study Two
 
 
 
