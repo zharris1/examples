@@ -22,7 +22,7 @@ On this page, you can find details about me, my projects, and educational backgr
 - [GitHub Repository for Case Study Two](https://github.com/zharris1/Case_Study_2)
 - [Quick Summary and EDA](https://github.com/zharris1/Case_Study_2/blob/59f99953a436ed18ad405f8f31cbfaa0392b8416/Case%20Study%20Two:%20Exploratory%20Data%20Analysis%20Report.pdf)
 - [YouTube Presentation](https://youtu.be/OMKvFv4JOws)
-- [RMD File](https://github.com/zharris1/CaseStudy2DDS_Zachary_Harris/blob/f6d7159b0eb8147a16c29969487667d00d448fe2/Attrition%20Case%20Study.pdf)
+- [RMD File](https://github.com/zharris1/CaseStudy2DDS_Zachary_Harris/blob/5cbf6bcff3c6da04243ce91fe77a36b2792306ce/Attrition%20Case%20Study.pdf)
 - [Presentation PowerPoint](https://github.com/zharris1/CaseStudy2DDS_Zachary_Harris/blob/822f12c3bf744b798aeab2335b108e2bc9bc866e/zachary_harris_video_presentation.pptx)
 - [Explanatory PowerPoint](https://github.com/zharris1/CaseStudy2DDS_Zachary_Harris/blob/822f12c3bf744b798aeab2335b108e2bc9bc866e/zachary_harris_explanatorydetails_presentation.pptx)
 - 
